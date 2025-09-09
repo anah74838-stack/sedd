@@ -50,7 +50,7 @@ class UltraUsernameClaimer:
         self.session = None
         
         # بيانات الجلسة للتسجيل التلقائي
-        self.session_string = "1BJWap1sBu0GCftUftEAdYygMS5oZcFbJ4xunP70JsFP2eJ11RK4_-dpyWnbNEel3vfOqSDniEmkUclYAOSvYdSwFZxzrtq_7BVafK_GpB9X6VcIV_1Dyfvi7n8zdTmWyA4ktRCSxdGnb-rB7aa-IEIyhzbJzOylFnP90ZPJt1o0CH3mcbMLPEawiFw1WFBaQADzZXjYgCnBB4Fr7dXVkGyZtJD256Y6M7QqvOB2CYTcvGmCHtVgo07lGDcEhzufrWz08efnc3wjgYhYY5piMq-qlst-PCobZA-t_7zc8zU5rBpamKf-26gYKf6m46GUo-c1Pali4C0rw7Xlt8Ow3XPx7ab-A0tw="  # تم التحديث
+        self.session_string = "1BJWap1sAUCT-DIoQH9lb8pXhCApYJ3D5TBwdhGkz7MdtlnRw5PHQptzlOSgSx1bV6Khf26HkyJjujFT-5M2Uz0XA2gxqp_h6iJu-6VJwYZBv-zBAWVuZPVWxc-qCYXBSk3-Vnv5qr2AP5bOR-JRToEPRMCx83_JqVnJ1Mm248oOCGbKxQVZ01Otlb-ElTgxpUAANRUvOoKiUBFkCQoqbk6snA1fvZlWCWvbdkg5xwFQXwfCIzZ7qQj0vyPYGQamU4aNo48hmqCcywGbnAej9d6FxH6VOOfG30dWsjCex7NmwXrp7W23GGU_qOkScyuVcHxolrhe7z0iEOPYafHKVrEfwM9dDlaQ="  # تم التحديث
         
         # إنشاء مجلدات التصفية
         self.filter_dir = "فلترة_اليوزرات"
