@@ -30,8 +30,8 @@ class Colors:
     RESET = '\033[0m'
 
 # إعدادات API
-api_id = '21348817'
-api_hash = '545f481d612470ada5416f4f8b267c69'
+api_id = '20202595'
+api_hash = '76e08a23961c8faaac4c456f48989633'
 
 # معلومات المطور
 developer = "@ra_a_a"
